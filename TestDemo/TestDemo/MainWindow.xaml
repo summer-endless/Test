@@ -7,6 +7,6 @@
         mc:Ignorable="d"
         Title="MainWindow" Height="350" Width="525">
     <Grid>
-        <TextBlock Text="develop demo verson 0.1"/>
+        <TextBlock Text="develop demo feature verson 0.1.1"/>
     </Grid>
 </Window>

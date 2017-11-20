@@ -8,5 +8,6 @@
         Title="MainWindow" Height="350" Width="525">
     <Grid>
         <TextBlock Text="develop demo feature update verson 0.2.1"/>
+        <TextBlock Text="update" Margin="0 30 0 0"/>
     </Grid>
 </Window>
